@@ -2,9 +2,9 @@ GitHub Open All Outdated Comments
 =================================
 
 A [Greasemonkey][1] user script that expands all hidden pull request comments.
-Changes to a line cause comments to collapse. If any replies were added to a
-thread, these will be hidden from view. This script makes it easier to see all
-replies by expanding everything by default.
+Normally on GitHub’s pull request page, changes to a line cause line comments to
+collapse. Any replies added to a conversation are hidden from view. This script
+makes it easier to see all replies by expanding everything by default.
 
 
 ## Install
